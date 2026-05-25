@@ -1,0 +1,20 @@
+[
+  {
+    "id": "6806ddf8-03bb-456a-a6c5-50b259b3cc95",
+    "userId": "b14a07c0-f837-4e6c-9cda-e4cb593d3f8a",
+    "courseId": "algorithms",
+    "createdAt": "2026-05-02T20:34:04.624Z"
+  },
+  {
+    "id": "20a5061b-6976-467d-81f7-477ef511b96b",
+    "userId": "a2f3bfea-b211-4e9b-8100-f982a75284cc",
+    "courseId": "algorithms",
+    "createdAt": "2026-05-02T20:34:22.620Z"
+  },
+  {
+    "id": "7eef6b39-bf74-4ad5-bf74-02d2e51f5626",
+    "userId": "c91e9a3d-03b9-4756-8d6a-56ea8fde5d82",
+    "courseId": "algorithms",
+    "createdAt": "2026-05-02T20:34:37.939Z"
+  }
+]

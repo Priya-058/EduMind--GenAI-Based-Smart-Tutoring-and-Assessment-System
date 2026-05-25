@@ -1,0 +1,9035 @@
+[
+  {
+    "id": "132e4a99-0963-4811-8bcd-8fd137544151",
+    "userId": "27149720-6d8f-4ee2-b30f-bbfded2a2083",
+    "cacheKey": "curated_1764785263258_5hik",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-03T18:07:52.890Z"
+  },
+  {
+    "id": "4945a666-2c18-4a5c-9c6d-2d72a3effa59",
+    "userId": "a6fb9035-aead-4146-b4a7-b02594aede40",
+    "cacheKey": "curated_1764787437433_6llh",
+    "score": 2,
+    "total": 10,
+    "perConcept": {
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0.5,
+        "totalQuestions": 2,
+        "correctCount": 1
+      },
+      "Indexing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Union-Find": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0.5
+      },
+      {
+        "concept": "Indexing",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-03T18:44:18.697Z"
+  },
+  {
+    "id": "e2ee5292-448a-4b4f-a317-50c3b76afba4",
+    "userId": "a6fb9035-aead-4146-b4a7-b02594aede40",
+    "cacheKey": "curated_1764788469676_eqli",
+    "score": 1,
+    "total": 10,
+    "perConcept": {
+      "Tree": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hashing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Heap": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hashing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Heap",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-03T19:01:25.461Z"
+  },
+  {
+    "id": "abbdc7c4-d9f1-4d4f-86d7-6f92786776f5",
+    "userId": "952b9c25-29f1-406e-88e3-e2dfdec804cd",
+    "cacheKey": "curated_1764788553355_rpvp",
+    "score": 1,
+    "total": 10,
+    "perConcept": {
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Indexing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "ACID": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Indexing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "ACID",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-03T19:02:49.917Z"
+  },
+  {
+    "id": "7753ee55-b3ab-42c1-9609-a281b317884e",
+    "userId": "c7b0733d-0afa-4c97-a70c-87f30656eaee",
+    "cacheKey": "curated_1764789174354_iih3hd",
+    "score": 0,
+    "total": 10,
+    "weakConcepts": [
+      {
+        "concept": "Recursion",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Indexing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-03T19:13:04.670Z"
+  },
+  {
+    "id": "3d1f4bb1-e870-4459-99a3-92b3b67e911a",
+    "userId": "b1bc89cd-3f38-4d27-a490-3a8af18320f9",
+    "cacheKey": "curated_1764789647486_nti4xi",
+    "score": 2,
+    "total": 10,
+    "weakConcepts": [
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0.5
+      },
+      {
+        "concept": "ACID",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-03T19:21:03.358Z"
+  },
+  {
+    "id": "fee76dbf-ac4e-4f3f-bcd5-bd699664cf3a",
+    "userId": "ea48cf82-667b-428e-8c34-ef3f23482715",
+    "cacheKey": "curated_1764790078492_phd6e1",
+    "score": 2,
+    "total": 10,
+    "weakConcepts": [
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Heap",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0.5
+      }
+    ],
+    "createdAt": "2025-12-03T19:28:18.455Z"
+  },
+  {
+    "id": "310ebac8-8e6d-41c7-b70b-c4c21f22ee39",
+    "userId": "60e8dbf9-8ad5-4e3f-93a1-f619dfee76a3",
+    "cacheKey": "curated_1764791225939_cvntky",
+    "score": 1,
+    "total": 10,
+    "perConcept": {
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Recursion": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Recursion",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-03T19:47:22.488Z"
+  },
+  {
+    "id": "beb37024-7fb4-48e1-b240-f487a2e89dd3",
+    "userId": "4fc161b4-73da-491e-8131-4f45eb4ce286",
+    "cacheKey": "curated_1764824024690_fcb9d1",
+    "score": 2,
+    "total": 10,
+    "perConcept": {
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hashing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hashing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T04:54:01.741Z"
+  },
+  {
+    "id": "ee7bb0fa-f926-4c11-ae74-7d62580eadb3",
+    "userId": "4fc161b4-73da-491e-8131-4f45eb4ce286",
+    "cacheKey": "curated_1764824558859_ygd7tv",
+    "score": 2,
+    "total": 10,
+    "perConcept": {
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T05:03:00.569Z"
+  },
+  {
+    "id": "6fc6f17c-d9a5-406a-bf33-f8ca2a6e97e4",
+    "userId": "4fc161b4-73da-491e-8131-4f45eb4ce286",
+    "cacheKey": "curated_1764824816844_hizapu",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Indexing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hashing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Indexing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hashing",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T05:07:05.860Z"
+  },
+  {
+    "id": "c638bb73-97f8-41ec-a82a-41e9d498132a",
+    "userId": "7d75e404-32ca-4863-b691-d3e36d897e3d",
+    "cacheKey": "curated_1764825181621_d0hw30",
+    "score": 5,
+    "total": 10,
+    "perConcept": {
+      "Heap": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Sorting": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Complexity": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hash": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hash",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T05:13:29.107Z"
+  },
+  {
+    "id": "32d39ee5-d6ea-4d6e-97cc-f15a995b434a",
+    "userId": "7d75e404-32ca-4863-b691-d3e36d897e3d",
+    "cacheKey": "curated_1764825460682_fb6eve",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hashing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hashing",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T05:18:03.603Z"
+  },
+  {
+    "id": "18e41fe1-187d-4cb2-ae57-9534231403cc",
+    "userId": "fc388f45-028c-4746-a986-165b121a3e6c",
+    "cacheKey": "curated_1764825692231_ax32fy",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "ACID": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "ACID",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T05:22:20.248Z"
+  },
+  {
+    "id": "2b66a34c-1cba-442a-a73f-3a4fd2ca8d9c",
+    "userId": "d926361c-46bb-4b01-be15-43db3aed0ec9",
+    "cacheKey": "curated_1764826427159_dz8ih0",
+    "score": 3,
+    "total": 10,
+    "perConcept": {
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0.5,
+        "totalQuestions": 2,
+        "correctCount": 1
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 3,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0.5,
+        "totalQuestions": 2,
+        "correctCount": 1
+      },
+      "Schema": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0.5
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0.5
+      }
+    ],
+    "createdAt": "2025-12-04T05:34:14.050Z"
+  },
+  {
+    "id": "3703f295-0139-426f-be28-c87a36009cdd",
+    "userId": "65f0322a-16fa-4333-b292-c4d71ece8bc2",
+    "cacheKey": "curated_1764832523913_7ud706",
+    "score": 4,
+    "total": 10,
+    "perConcept": {
+      "Greedy": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Indexing": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Trie": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T07:15:41.011Z"
+  },
+  {
+    "id": "bdf1210b-9be0-4a18-9d9f-b96b7a4c485a",
+    "userId": "65f0322a-16fa-4333-b292-c4d71ece8bc2",
+    "cacheKey": "curated_1764832798124_njg08h",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Recursion": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Recursion",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T07:20:08.143Z"
+  },
+  {
+    "id": "aee4c6c6-80c6-4203-a0e0-b1a2149d07d9",
+    "userId": "65f0322a-16fa-4333-b292-c4d71ece8bc2",
+    "cacheKey": "curated_1764832826311_clfchj",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Hashing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Heap": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hash": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Hashing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Heap",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hash",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T07:20:33.659Z"
+  },
+  {
+    "id": "5fea611f-add1-4259-847b-88f1f239070b",
+    "userId": "7d75e404-32ca-4863-b691-d3e36d897e3d",
+    "cacheKey": "curated_1764832937027_hiw842",
+    "score": 3,
+    "total": 10,
+    "perConcept": {
+      "Recursion": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "SQL": {
+        "averageScore": 0.5,
+        "totalQuestions": 2,
+        "correctCount": 1
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0.5
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T07:22:31.510Z"
+  },
+  {
+    "id": "f42ccea0-c0bf-45e1-b8db-b821c3e3628f",
+    "userId": "7d75e404-32ca-4863-b691-d3e36d897e3d",
+    "cacheKey": "curated_1764833768701_67nv68",
+    "score": 3,
+    "total": 10,
+    "perConcept": {
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0.5,
+        "totalQuestions": 2,
+        "correctCount": 1
+      },
+      "Complexity": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0.5
+      }
+    ],
+    "createdAt": "2025-12-04T07:36:20.552Z"
+  },
+  {
+    "id": "00f3953e-85b6-4fde-9c46-f5d0c44f4237",
+    "userId": "7d75e404-32ca-4863-b691-d3e36d897e3d",
+    "cacheKey": "curated_1764834508688_1qreez",
+    "score": 2,
+    "total": 10,
+    "perConcept": {
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Recursion": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Indexing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "ACID": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hash": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0.5,
+        "totalQuestions": 2,
+        "correctCount": 1
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Recursion",
+        "accuracy": 0
+      },
+      {
+        "concept": "Indexing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "ACID",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hash",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0.5
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T07:48:52.210Z"
+  },
+  {
+    "id": "9917cd1b-624d-49bb-9309-7151296b1a7f",
+    "userId": "e66cf8bd-36b4-40f4-bc81-b04142397b5b",
+    "cacheKey": "curated_1764834774122_f8jwxg",
+    "score": 1,
+    "total": 10,
+    "perConcept": {
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T07:53:08.439Z"
+  },
+  {
+    "id": "24a8fe8f-dd50-473f-baf9-224925c70561",
+    "userId": "7536a101-f507-4a27-adca-419aadf903c3",
+    "cacheKey": "curated_1764834896805_rb2zws",
+    "score": 2,
+    "total": 10,
+    "perConcept": {
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Heap": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T07:55:11.170Z"
+  },
+  {
+    "id": "fdb1f202-bfd5-45dd-abee-15b167adbeed",
+    "userId": "7536a101-f507-4a27-adca-419aadf903c3",
+    "cacheKey": "curated_1764835078435_roy49n",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Heap": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "Heap",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T07:58:04.787Z"
+  },
+  {
+    "id": "3a02d89a-821c-42c7-8ee7-bef7ad1fdfab",
+    "userId": "7536a101-f507-4a27-adca-419aadf903c3",
+    "cacheKey": "curated_1764835110387_n5zngy",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T07:58:36.669Z"
+  },
+  {
+    "id": "6fa9dbc5-5867-4fdb-a991-fd5704bdfb78",
+    "userId": "3aace453-086f-49db-92eb-902c593d007d",
+    "cacheKey": "curated_1764835171548_q2luad",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "ACID": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hashing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "ACID",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hashing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T07:59:46.835Z"
+  },
+  {
+    "id": "07cd6060-82cc-4c63-9e61-8f0983e179c3",
+    "userId": "7d75e404-32ca-4863-b691-d3e36d897e3d",
+    "cacheKey": "curated_1764835286549_0wmptz",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T08:01:34.300Z"
+  },
+  {
+    "id": "d00b4cc6-0544-48d8-ac2e-a4e8020094c1",
+    "userId": "7536a101-f507-4a27-adca-419aadf903c3",
+    "cacheKey": "curated_1764835498198_fkw3mu",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "ACID": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hashing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hash": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "ACID",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hashing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hash",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T08:05:04.333Z"
+  },
+  {
+    "id": "f29cb6fb-d889-487a-b2cf-e371d2a8dbc8",
+    "userId": "1eb753af-96a2-4f00-bfab-4bf3ca4ab66d",
+    "cacheKey": "curated_1764836483905_kqybrz",
+    "score": 2,
+    "total": 10,
+    "perConcept": {
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Recursion": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Graph": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T08:21:44.547Z"
+  },
+  {
+    "id": "9340a6aa-0871-40ee-8f59-af11562e782f",
+    "userId": "bfed6c85-6d25-4279-81f9-f9a3ddd6fca9",
+    "cacheKey": "curated_1764836682936_zc7tc9",
+    "score": 2,
+    "total": 10,
+    "perConcept": {
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0.5,
+        "totalQuestions": 2,
+        "correctCount": 1
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hashing": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Indexing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0.5
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Indexing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T08:24:56.404Z"
+  },
+  {
+    "id": "2b043a07-4b3d-4b35-9cdd-d2c6c2a36863",
+    "userId": "a7fba3a3-7b48-48f8-a97a-bdad8adae55f",
+    "cacheKey": "curated_1764836798500_7p3gnh",
+    "score": 2,
+    "total": 10,
+    "perConcept": {
+      "Heap": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Recursion": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Complexity": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Heap",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Recursion",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T08:26:57.011Z"
+  },
+  {
+    "id": "07b633c0-d737-4ce8-8d74-6f6ed1c96f82",
+    "userId": "1eb753af-96a2-4f00-bfab-4bf3ca4ab66d",
+    "cacheKey": "curated_1764836972716_9a4syy",
+    "score": 1,
+    "total": 10,
+    "perConcept": {
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 3,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T08:29:49.572Z"
+  },
+  {
+    "id": "f60314ef-a5a2-4a22-8ab9-9c2968dc85d8",
+    "userId": "1eb753af-96a2-4f00-bfab-4bf3ca4ab66d",
+    "cacheKey": "curated_1764837006011_l9cgsh",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Recursion": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Recursion",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T08:30:13.656Z"
+  },
+  {
+    "id": "721cf492-bbd9-4769-8a2a-e7bb46e915b1",
+    "userId": "1eb753af-96a2-4f00-bfab-4bf3ca4ab66d",
+    "cacheKey": "curated_1764837071561_75jao2",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hashing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hashing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T08:31:17.948Z"
+  },
+  {
+    "id": "42e3266c-3f27-4a72-a4b5-3fe25b9660ee",
+    "userId": "1eb753af-96a2-4f00-bfab-4bf3ca4ab66d",
+    "cacheKey": "curated_1764837082751_jivo9b",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "ACID": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hash": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "ACID",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hash",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T08:31:30.048Z"
+  },
+  {
+    "id": "50aa6497-c3cc-48bd-b2d7-da33c8760c9c",
+    "userId": "db823d04-508b-4d70-9153-2cdfbf1109c5",
+    "cacheKey": "curated_1764837137831_q1kvtn",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Hashing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Hashing",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T08:32:24.670Z"
+  },
+  {
+    "id": "3e3d5ca1-6210-4427-a676-4fef696cb6a8",
+    "userId": "1eb753af-96a2-4f00-bfab-4bf3ca4ab66d",
+    "cacheKey": "curated_1764837224275_u9r7ki",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hash": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hash",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T08:33:51.551Z"
+  },
+  {
+    "id": "24387fc9-976c-446b-ae8e-576de1f6c30e",
+    "userId": "7d75e404-32ca-4863-b691-d3e36d897e3d",
+    "cacheKey": "curated_1764837316612_60l3ue",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Recursion": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Heap": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "Recursion",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Heap",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T08:35:23.934Z"
+  },
+  {
+    "id": "9d826efa-8900-4c5a-80d3-3f90a854a0c4",
+    "userId": "1eb753af-96a2-4f00-bfab-4bf3ca4ab66d",
+    "cacheKey": "curated_1764837373778_mhx6wq",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "ACID": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hash": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "ACID",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hash",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T08:36:28.314Z"
+  },
+  {
+    "id": "b4d88197-5880-44e5-8da5-96d003af376f",
+    "userId": "1eb753af-96a2-4f00-bfab-4bf3ca4ab66d",
+    "cacheKey": "curated_1764837398765_xadkqd",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T08:36:45.517Z"
+  },
+  {
+    "id": "5af0e8b0-dc95-4ea6-a1c0-719e409a0af7",
+    "userId": "34c96c20-8ca0-49fa-be0e-21455b2cfd6e",
+    "cacheKey": "curated_1764837459312_jshjy7",
+    "score": 4,
+    "total": 10,
+    "perConcept": {
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "SQL": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Hash": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hash",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T08:37:55.976Z"
+  },
+  {
+    "id": "eb7bcedb-f5e6-4b03-8d80-8d003fabf0c2",
+    "userId": "1eb753af-96a2-4f00-bfab-4bf3ca4ab66d",
+    "cacheKey": "curated_1764837548343_ock5q7",
+    "score": 3,
+    "total": 10,
+    "perConcept": {
+      "SQL": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Recursion": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0.5,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Trie": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Recursion",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0.5
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T08:39:30.087Z"
+  },
+  {
+    "id": "61f242fc-8643-4a75-8459-7201c69329e2",
+    "userId": "d79358ab-5caa-4d81-9547-1a8c4414113f",
+    "cacheKey": "curated_1764837914432_kcjk0p",
+    "score": 2,
+    "total": 10,
+    "perConcept": {
+      "Hash": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Hash",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T08:45:26.641Z"
+  },
+  {
+    "id": "a536d6ba-dedf-4b22-8485-4e4b176fce16",
+    "userId": "1eb753af-96a2-4f00-bfab-4bf3ca4ab66d",
+    "cacheKey": "curated_1764840528664_madi6x",
+    "score": 1,
+    "total": 10,
+    "perConcept": {
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Recursion": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T09:29:07.121Z"
+  },
+  {
+    "id": "956a6a1a-e9a3-4afa-b8af-8934f97fff0d",
+    "userId": "1eb753af-96a2-4f00-bfab-4bf3ca4ab66d",
+    "cacheKey": "curated_1764840628616_rsbavy",
+    "score": 2,
+    "total": 10,
+    "perConcept": {
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Indexing": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0.5,
+        "totalQuestions": 2,
+        "correctCount": 1
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0.5
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T09:30:42.879Z"
+  },
+  {
+    "id": "c1e182ee-b944-4e60-b5e0-d70a8ec65376",
+    "userId": "4fc161b4-73da-491e-8131-4f45eb4ce286",
+    "cacheKey": "curated_1764840799023_ku00n1",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T09:33:27.870Z"
+  },
+  {
+    "id": "2623d86a-d62e-44e3-be06-04a86190e3fc",
+    "userId": "4fc161b4-73da-491e-8131-4f45eb4ce286",
+    "cacheKey": "curated_1764840958544_dfuswa",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T09:36:04.898Z"
+  },
+  {
+    "id": "ff9519f6-bedb-42a6-9206-d25bf36831ef",
+    "userId": "01750791-a935-4631-9387-3ddebd8a9848",
+    "cacheKey": "curated_1764841034631_5cr61v",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "ACID": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "ACID",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T09:37:22.138Z"
+  },
+  {
+    "id": "b0b0c3dd-43f7-434a-9251-1e6c16950915",
+    "userId": "47dd5b1d-1d0b-47e0-9db4-fc388cb73384",
+    "cacheKey": "curated_1764841130757_2xtw13",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Heap": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "ACID": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Heap",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "ACID",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2025-12-04T09:39:02.536Z"
+  },
+  {
+    "id": "9aac1694-cc57-4c0b-9fab-6564a0e8cefa",
+    "userId": "98b4d420-078f-462c-9b83-580cabb87e90",
+    "cacheKey": "curated_1777086338588_vct52w",
+    "score": 3,
+    "total": 10,
+    "perConcept": {
+      "Sorting": {
+        "averageScore": 0.667,
+        "totalQuestions": 3,
+        "correctCount": 2
+      },
+      "Graphs": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-25T03:06:22.615Z"
+  },
+  {
+    "id": "8066d301-1313-42c5-90d1-a57ea6b333d2",
+    "userId": "98b4d420-078f-462c-9b83-580cabb87e90",
+    "cacheKey": "curated_1777091110752_2u3rbd",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-25T04:25:32.693Z"
+  },
+  {
+    "id": "fb8d4a6e-ce40-42c0-9242-a6c6eae442a3",
+    "userId": "98b4d420-078f-462c-9b83-580cabb87e90",
+    "cacheKey": "curated_1777092416354_7llkju",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-25T04:47:11.867Z"
+  },
+  {
+    "id": "577be971-6fa3-45b7-8454-060af7fb6522",
+    "userId": "98b4d420-078f-462c-9b83-580cabb87e90",
+    "cacheKey": "curated_1777092699385_wa1cgo",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Heap": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Heap",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-25T04:51:50.331Z"
+  },
+  {
+    "id": "561c7090-5d21-493e-9309-d97c3102c1d7",
+    "userId": "98b4d420-078f-462c-9b83-580cabb87e90",
+    "cacheKey": "curated_1777094420316_3ia0zy",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Heap": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Recursion": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Heap",
+        "accuracy": 0
+      },
+      {
+        "concept": "Recursion",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-25T05:20:32.761Z"
+  },
+  {
+    "id": "9a7a808c-089c-45a8-b3dc-a4dd7a51a636",
+    "userId": "98b4d420-078f-462c-9b83-580cabb87e90",
+    "cacheKey": "curated_1777094812794_zepvxa",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hashing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hashing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-25T05:26:59.593Z"
+  },
+  {
+    "id": "1a820201-82b4-4aa0-853e-af25ed9a1a5b",
+    "userId": "98b4d420-078f-462c-9b83-580cabb87e90",
+    "cacheKey": "curated_1777095759451_cu7ior",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Indexing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Indexing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-25T05:42:50.626Z"
+  },
+  {
+    "id": "8fb7f5a8-31e2-49e9-a99c-f6f15b2f0d5a",
+    "userId": "98b4d420-078f-462c-9b83-580cabb87e90",
+    "cacheKey": "curated_1777095807626_6udvde",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-25T05:43:37.426Z"
+  },
+  {
+    "id": "057b291e-71fd-4e00-a975-63f9512a5598",
+    "userId": "98b4d420-078f-462c-9b83-580cabb87e90",
+    "cacheKey": "curated_1777096375058_n6e70c",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-25T05:53:07.218Z"
+  },
+  {
+    "id": "72fcf983-ed53-48fd-92ab-270230eff6a0",
+    "userId": "98b4d420-078f-462c-9b83-580cabb87e90",
+    "cacheKey": "curated_1777096633224_h5bmdv",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-25T05:57:23.041Z"
+  },
+  {
+    "id": "cbac75c4-abc2-49ea-9d73-795189ac9eaa",
+    "userId": "98b4d420-078f-462c-9b83-580cabb87e90",
+    "cacheKey": "curated_1777097383273_woh7hv",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Hashing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hash": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Hashing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hash",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-25T06:09:54.067Z"
+  },
+  {
+    "id": "7f7ceddd-483b-4b6c-9af9-3c088684ca86",
+    "userId": "98b4d420-078f-462c-9b83-580cabb87e90",
+    "cacheKey": "curated_1777097383273_woh7hv",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Hashing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hash": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Hashing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hash",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-25T06:11:20.183Z"
+  },
+  {
+    "id": "47733cc8-5a40-411e-9dc7-b3ac02c4d653",
+    "userId": "98b4d420-078f-462c-9b83-580cabb87e90",
+    "cacheKey": "curated_1777098064563_k584dw",
+    "score": 2,
+    "total": 10,
+    "perConcept": {
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0.5,
+        "totalQuestions": 2,
+        "correctCount": 1
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0.5
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-25T06:21:30.424Z"
+  },
+  {
+    "id": "4fa40e0b-7529-418a-bef4-6c79042d3b14",
+    "userId": "98b4d420-078f-462c-9b83-580cabb87e90",
+    "cacheKey": "curated_1777309514460_oimwol",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-27T17:05:24.112Z"
+  },
+  {
+    "id": "d2441a50-c9f6-43b5-a7a5-cde2b1f57b45",
+    "userId": "98b4d420-078f-462c-9b83-580cabb87e90",
+    "cacheKey": "curated_1777311743703_41qtk9",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "ACID": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "ACID",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-27T17:42:36.316Z"
+  },
+  {
+    "id": "97f15a8e-609e-4bc5-9d52-41a05ef3a1d1",
+    "userId": "98b4d420-078f-462c-9b83-580cabb87e90",
+    "cacheKey": "curated_1777311764300_r7ikh2",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Hash": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Recursion": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Hash",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Recursion",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-27T17:42:53.907Z"
+  },
+  {
+    "id": "2c7cd89a-39f7-49ea-b01e-2f2a44c24865",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1777394875799_1zeezi",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-28T16:48:12.114Z"
+  },
+  {
+    "id": "b0b3167a-ef24-4451-8061-8db46a27794d",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1777398136063_638i1b",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hashing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hashing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-28T17:42:19.266Z"
+  },
+  {
+    "id": "0adf3214-a361-4baa-882e-aa4c98228ee1",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1777398310749_jnr05d",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Heap": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "ACID": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      },
+      {
+        "concept": "Heap",
+        "accuracy": 0
+      },
+      {
+        "concept": "ACID",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-28T17:45:14.041Z"
+  },
+  {
+    "id": "30a72631-8351-4f8f-a636-e5c6e4fa6300",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1777398383741_5tpqzg",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Heap": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hashing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Heap",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hashing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-04-28T17:46:28.894Z"
+  },
+  {
+    "id": "e657b75f-3121-4f5e-a722-9ea837613367",
+    "userId": "08158a2f-dcda-461b-b4b6-cbcec9ee7dd0",
+    "cacheKey": "curated_1778078693735_ol8b56",
+    "courseId": "dsa_dbms_level1",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-06T14:44:57.659Z"
+  },
+  {
+    "id": "bb30bc55-016c-42c3-8e71-38caeb761ef2",
+    "userId": "08158a2f-dcda-461b-b4b6-cbcec9ee7dd0",
+    "cacheKey": "curated_1778078944807_px9ic6",
+    "courseId": "dsa_dbms_level1",
+    "score": 1,
+    "total": 10,
+    "perConcept": {
+      "Schema": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 3,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-06T14:55:07.927Z"
+  },
+  {
+    "id": "2c7fa069-e0c6-4a01-b12d-784908cc821a",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1778090141848_k15e9x",
+    "courseId": "dsa_dbms_level1",
+    "score": 2,
+    "total": 10,
+    "perConcept": {
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 4,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Queue": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-06T17:56:33.974Z"
+  },
+  {
+    "id": "0e38b4e7-a4c1-43c6-bca3-898ac409caf1",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1778091275957_aie5dk",
+    "courseId": "dsa_dbms_level1",
+    "score": 3,
+    "total": 10,
+    "perConcept": {
+      "SQL": {
+        "averageScore": 0.5,
+        "totalQuestions": 2,
+        "correctCount": 1
+      },
+      "Stack": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Queue": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "SQL",
+        "accuracy": 0.5
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-06T18:15:16.071Z"
+  },
+  {
+    "id": "17016a26-6d1d-4d5d-98a1-c594fcd68b09",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1778093681699_uxv1ju",
+    "courseId": "dsa_dbms_level1",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 3,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-06T18:54:53.599Z"
+  },
+  {
+    "id": "32eac883-091e-4d72-bcd9-3e39fcfb9280",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1778174597037_z3exbj",
+    "courseId": "dsa_dbms_level1",
+    "score": 2,
+    "total": 10,
+    "perConcept": {
+      "Schema": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 1,
+        "totalQuestions": 1,
+        "correctCount": 1
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 3,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0.5,
+        "totalQuestions": 1,
+        "correctCount": 1
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0.5
+      }
+    ],
+    "createdAt": "2026-05-07T17:25:13.021Z"
+  },
+  {
+    "id": "bb07fbfc-1133-43be-8f80-0b4221e33148",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1778174929652_ywwb51",
+    "courseId": "dsa_dbms_level1",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 3,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-07T17:28:52.590Z"
+  },
+  {
+    "id": "e595f893-9cf7-4d88-89ee-7f6e899a7623",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1778174929652_ywwb51",
+    "courseId": "dsa_dbms_level1",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 3,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-07T17:30:29.972Z"
+  },
+  {
+    "id": "2c6a3bba-233c-4aad-958d-4a2497829ce3",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1778174929652_ywwb51",
+    "courseId": "dsa_dbms_level1",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 3,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-07T17:30:44.807Z"
+  },
+  {
+    "id": "64af2aa9-c2dd-45d4-a484-8636786caee8",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1778174929652_ywwb51",
+    "courseId": "dsa_dbms_level1",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 3,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-07T17:31:48.403Z"
+  },
+  {
+    "id": "8a6491e1-9b90-4394-b0b1-345890b4f964",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1778174929652_ywwb51",
+    "courseId": "dsa_dbms_level1",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 3,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-07T17:37:13.165Z"
+  },
+  {
+    "id": "6437ec21-583f-4496-9dab-737753d25ca3",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1778176444815_8w28zo",
+    "courseId": "dsa_dbms_level1",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 4,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-07T17:54:07.472Z"
+  },
+  {
+    "id": "5ad595c2-07c4-49fd-8b63-3abb69ddd52f",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1778176444815_8w28zo",
+    "courseId": "dsa_dbms_level1",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 4,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-07T17:55:40.528Z"
+  },
+  {
+    "id": "25d1cd78-5e18-467c-8a69-de50fa1c294d",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1778176599609_v0z6er",
+    "courseId": "dsa_dbms_level1",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 4,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-07T17:56:42.836Z"
+  },
+  {
+    "id": "992ae7e6-8342-447a-b890-af327b3e8749",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1778222692593_vzwa00",
+    "courseId": null,
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Recursion": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Recursion",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-08T06:46:50.238Z"
+  },
+  {
+    "id": "0e4cb19a-4869-45bb-b25f-dfb680e169f4",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1778323308191_1f0g8d",
+    "courseId": "dsa_dbms_level1",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-09T10:41:51.967Z"
+  },
+  {
+    "id": "04f1d0f0-f45d-4cd8-af97-e4be181a6102",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1779623613138_e7h0k9",
+    "courseId": null,
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-24T12:21:42.954Z"
+  },
+  {
+    "id": "66159053-3ce8-4d49-bcba-90033874ac93",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1779626738064_wvynhr",
+    "courseId": null,
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Heap": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "ACID": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "Heap",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "ACID",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-24T12:46:48.769Z"
+  },
+  {
+    "id": "2171cb47-4805-456d-9ea9-f7b64a172079",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1779627256202_6nlhh3",
+    "courseId": null,
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-24T12:54:30.441Z"
+  },
+  {
+    "id": "9c695ace-27da-4ce0-8c7c-d3633f95116e",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1779627256202_6nlhh3",
+    "courseId": null,
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-24T12:55:04.700Z"
+  },
+  {
+    "id": "9f278fa7-474e-4dc0-9890-74acdbf49e6e",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1779627256202_6nlhh3",
+    "courseId": null,
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-24T12:56:20.559Z"
+  },
+  {
+    "id": "887efe51-0755-4743-86fb-233c4bab9b70",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1779627256202_6nlhh3",
+    "courseId": null,
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Tree": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Tree",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-24T13:02:26.928Z"
+  },
+  {
+    "id": "561a1a3d-c27a-43df-8234-716e48f7cb9e",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1779627807887_1elwpt",
+    "courseId": null,
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "ACID": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Heap": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "ACID",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Heap",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-24T13:07:28.720Z"
+  },
+  {
+    "id": "4b542ecf-ed4a-4e90-9910-8d8192698056",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1779628079498_79g0zh",
+    "courseId": null,
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 3,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-24T13:08:02.328Z"
+  },
+  {
+    "id": "cf4c04d6-bd32-4e53-a293-3b181f8d8519",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1779628086996_q48onu",
+    "courseId": null,
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hash": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Dynamic Programming": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hash",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      },
+      {
+        "concept": "Dynamic Programming",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-24T13:08:12.048Z"
+  },
+  {
+    "id": "b31dfb93-ae10-4342-a70c-b3d28eb21107",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1779628208268_d66nlj",
+    "courseId": null,
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graph": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "Heap": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graph",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Heap",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-24T13:14:18.499Z"
+  },
+  {
+    "id": "14b14fc2-5ea0-4f18-9350-5c6e27bf34a3",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1779628690240_myi9la",
+    "courseId": null,
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 2,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hashing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Trie": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hashing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "Trie",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-24T13:47:56.942Z"
+  },
+  {
+    "id": "ae60b797-1c3d-432b-a7fb-c196c72bd5df",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1779637435089_1xae6i",
+    "courseId": null,
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Normalization": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hash": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Greedy": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Transactions": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Indexing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Union-Find": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Joins": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Normalization",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hash",
+        "accuracy": 0
+      },
+      {
+        "concept": "Greedy",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Transactions",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Indexing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Union-Find",
+        "accuracy": 0
+      },
+      {
+        "concept": "Joins",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-24T15:47:21.303Z"
+  },
+  {
+    "id": "38fef39f-2470-452b-b581-11a3b0d5de06",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1779645937862_f4xgdp",
+    "courseId": null,
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Heap": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hashing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Searching": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "ACID": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Heap",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hashing",
+        "accuracy": 0
+      },
+      {
+        "concept": "Searching",
+        "accuracy": 0
+      },
+      {
+        "concept": "ACID",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-24T18:05:48.320Z"
+  },
+  {
+    "id": "a6930539-8cdc-4230-b660-ad18c5d192cc",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1779647227447_3nv0lp",
+    "courseId": "dsa_dbms_level1",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 3,
+        "correctCount": 0
+      },
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Schema": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Schema",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-24T18:27:10.473Z"
+  },
+  {
+    "id": "010a8fa5-0a7d-4745-b30e-8631d45de39f",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1779648819859_nntbal",
+    "courseId": null,
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Hashing": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "DP": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Complexity": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Hash": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Sorting": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Graphs": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Hashing",
+        "accuracy": 0
+      },
+      {
+        "concept": "DP",
+        "accuracy": 0
+      },
+      {
+        "concept": "Complexity",
+        "accuracy": 0
+      },
+      {
+        "concept": "Hash",
+        "accuracy": 0
+      },
+      {
+        "concept": "Sorting",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Graphs",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-24T18:53:42.462Z"
+  },
+  {
+    "id": "9705a23e-9f9c-4ccb-84db-60d2008f8e48",
+    "userId": "b17ce4d4-5069-40db-95ce-16e5265e0fd3",
+    "cacheKey": "curated_1779651266098_y21y5p",
+    "courseId": "dsa_dbms_level1",
+    "score": 0,
+    "total": 10,
+    "perConcept": {
+      "Array/Matrix": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Index": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "SQL": {
+        "averageScore": 0,
+        "totalQuestions": 3,
+        "correctCount": 0
+      },
+      "Array": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack/Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Queue": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Linked List": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      },
+      "Stack": {
+        "averageScore": 0,
+        "totalQuestions": 1,
+        "correctCount": 0
+      }
+    },
+    "weakConcepts": [
+      {
+        "concept": "Array/Matrix",
+        "accuracy": 0
+      },
+      {
+        "concept": "Index",
+        "accuracy": 0
+      },
+      {
+        "concept": "SQL",
+        "accuracy": 0
+      },
+      {
+        "concept": "Array",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack/Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Queue",
+        "accuracy": 0
+      },
+      {
+        "concept": "Linked List",
+        "accuracy": 0
+      },
+      {
+        "concept": "Stack",
+        "accuracy": 0
+      }
+    ],
+    "createdAt": "2026-05-24T19:34:28.800Z"
+  }
+]

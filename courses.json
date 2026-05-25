@@ -1,0 +1,40 @@
+[
+  {
+    "id": "dsa_dbms_level1",
+    "title": "Assessment 1",
+    "topicList": [
+      "Data Structures",
+      "Databases"
+    ],
+    "description": "Mixed assessment covering Data Structures and SQL basics (Level 1)",
+    "level": 1,
+    "locked": false,
+    "createdAt": "2026-05-06T14:31:49.831Z"
+  },
+  {
+    "id": "dsa_dbms_level2",
+    "title": "Assessment 2",
+    "topicList": [
+      "Data Structures",
+      "Databases"
+    ],
+    "description": "Higher-difficulty assessment focusing on weak topics (Level 2)",
+    "level": 2,
+    "locked": true,
+    "prerequisite": "dsa_dbms_level1",
+    "createdAt": "2026-05-06T14:31:49.832Z"
+  },
+  {
+    "id": "b97a5fb0-509f-48df-b3a8-e7bac461ae23",
+    "title": "Assessment 3",
+    "topic": "Data Structures, Databases",
+    "topicList": [
+      "Data Structures",
+      "Databases"
+    ],
+    "description": "Assessment 3 (Level 3)",
+    "level": 3,
+    "locked": true,
+    "createdAt": "2026-05-24T16:57:01.061Z"
+  }
+]

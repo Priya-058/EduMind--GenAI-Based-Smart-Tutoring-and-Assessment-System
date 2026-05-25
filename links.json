@@ -1,0 +1,26 @@
+{
+  "Algorithms": [
+    { "title": "GeeksforGeeks - Algorithms", "url": "https://www.geeksforgeeks.org/fundamentals-of-algorithms/" }
+  ],
+  "Data Structures": [
+    { "title": "GeeksforGeeks - Data Structures", "url": "https://www.geeksforgeeks.org/data-structures/" }
+  ],
+  "Databases": [
+    { "title": "GeeksforGeeks - DBMS", "url": "https://www.geeksforgeeks.org/dbms/" }
+  ],
+  "Graphs": [
+    { "title": "GeeksforGeeks - Graph Data Structure", "url": "https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/" }
+  ],
+  "Trie": [
+    { "title": "GeeksforGeeks - Trie", "url": "https://www.geeksforgeeks.org/trie-insert-and-search/" }
+  ],
+  "Sorting": [
+    { "title": "GeeksforGeeks - Sorting Algorithms", "url": "https://www.geeksforgeeks.org/sorting-algorithms/" }
+  ],
+  "SQL": [
+    { "title": "W3Schools - SQL Tutorial", "url": "https://www.w3schools.com/sql/" }
+  ],
+  "Transactions": [
+    { "title": "GeeksforGeeks - DBMS Transaction", "url": "https://www.geeksforgeeks.org/transactions-in-dbms/" }
+  ]
+}

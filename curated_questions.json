@@ -1,0 +1,507 @@
+{
+  "meta": {
+    "created_by": "assistant_seed_v1",
+    "notes": "Seed curated CS questions: Algorithms, Data Structures, Databases. Beginner → Medium.",
+    "version": "v1"
+  },
+  "questions": [
+    {
+      "id": "alg_mcq_01",
+      "source": "curated",
+      "topic": "Algorithms",
+      "concept": "Sorting",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question": "What is the average-case time complexity of merge sort?",
+      "options": ["O(n)","O(n log n)","O(n^2)","O(log n)"],
+      "answer": "O(n log n)"
+    },
+    {
+      "id": "alg_mcq_02",
+      "source": "curated",
+      "topic": "Algorithms",
+      "concept": "Searching",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question": "Which algorithm is used to search in a sorted array?",
+      "options": ["Linear search","Binary search","Bubble search","Hash search"],
+      "answer": "Binary search"
+    },
+    {
+      "id": "alg_mcq_03",
+      "source": "curated",
+      "topic": "Algorithms",
+      "concept": "Complexity",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question": "Which notation describes an upper bound for an algorithm's running time?",
+      "options": ["Big-O","Big-Theta","Big-Omega","Little-o"],
+      "answer": "Big-O"
+    },
+    {
+      "id": "alg_mcq_04",
+      "source": "curated",
+      "topic": "Algorithms",
+      "concept": "Graph",
+      "type": "mcq",
+      "difficulty": "medium",
+      "question": "Which algorithm finds shortest paths from a single source with non-negative weights?",
+      "options": ["Floyd-Warshall","Dijkstra","Kruskal","Prim"],
+      "answer": "Dijkstra"
+    },
+    {
+      "id": "alg_mcq_05",
+      "source": "curated",
+      "topic": "Algorithms",
+      "concept": "Greedy",
+      "type": "mcq",
+      "difficulty": "medium",
+      "question": "Which algorithm is greedy and builds a minimum spanning tree by sorting edges?",
+      "options": ["Kruskal","Dijkstra","Bellman-Ford","Floyd-Warshall"],
+      "answer": "Kruskal"
+    },
+    {
+      "id": "alg_mcq_06",
+      "source": "curated",
+      "topic": "Algorithms",
+      "concept": "Dynamic Programming",
+      "type": "mcq",
+      "difficulty": "medium",
+      "question": "Which problem is classically solved using dynamic programming?",
+      "options": ["Binary search","Matrix chain multiplication","Heapify","Union-Find"],
+      "answer": "Matrix chain multiplication"
+    },
+    {
+      "id": "alg_mcq_07",
+      "source": "curated",
+      "topic": "Algorithms",
+      "concept": "Sorting",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question": "Which sorting algorithm is stable and uses extra memory proportional to n?",
+      "options": ["Quick sort","Merge sort","Heap sort","Selection sort"],
+      "answer": "Merge sort"
+    },
+    {
+      "id": "alg_mcq_08",
+      "source": "curated",
+      "topic": "Algorithms",
+      "concept": "Recursion",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question": "Recursion can be converted to iteration using what technique?",
+      "options": ["Memoization","Stack","Greedy","Divide-and-conquer"],
+      "answer": "Stack"
+    },
+    {
+      "id": "alg_mcq_09",
+      "source": "curated",
+      "topic": "Algorithms",
+      "concept": "Graphs",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question": "Which traversal visits all nodes level by level?",
+      "options": ["DFS","BFS","Dijkstra","Kruskal"],
+      "answer": "BFS"
+    },
+    {
+      "id": "alg_mcq_10",
+      "source": "curated",
+      "topic": "Algorithms",
+      "concept": "Complexity",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question": "Which complexity describes the best-case performance?",
+      "options": ["Big-O","Big-Theta","Big-Omega","Little-o"],
+      "answer": "Big-Omega"
+    },
+
+    {
+      "id": "ds_mcq_01",
+      "source": "curated",
+      "topic": "Data Structures",
+      "concept": "Array",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question": "Which data structure provides O(1) random access?",
+      "options": ["Linked List","Array","Stack","Queue"],
+      "answer": "Array"
+    },
+    {
+      "id": "ds_mcq_02",
+      "source": "curated",
+      "topic": "Data Structures",
+      "concept": "Linked List",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question": "Which allows O(1) insertion at the head?",
+      "options": ["Singly linked list","Doubly linked list","Array","Heap"],
+      "answer": "Singly linked list"
+    },
+    {
+      "id": "ds_mcq_03",
+      "source": "curated",
+      "topic": "Data Structures",
+      "concept": "Stack/Queue",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question": "Which structure follows LIFO order?",
+      "options": ["Queue","Stack","Tree","Graph"],
+      "answer": "Stack"
+    },
+    {
+      "id": "ds_mcq_04",
+      "source": "curated",
+      "topic": "Data Structures",
+      "concept": "Heap",
+      "type": "mcq",
+      "difficulty": "medium",
+      "question": "A min-heap gives which element in O(1)?",
+      "options": ["Maximum","Minimum","Median","Random"],
+      "answer": "Minimum"
+    },
+    {
+      "id": "ds_mcq_05",
+      "source": "curated",
+      "topic": "Data Structures",
+      "concept": "Hashing",
+      "type": "mcq",
+      "difficulty": "medium",
+      "question": "Average-case lookup time in a hash table with good hashing is:",
+      "options": ["O(n)","O(log n)","O(1)","O(n log n)"],
+      "answer": "O(1)"
+    },
+    {
+      "id": "ds_mcq_06",
+      "source": "curated",
+      "topic": "Data Structures",
+      "concept": "Tree",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question": "In a binary search tree (BST), left subtree keys are ____ than root.",
+      "options": ["Greater","Smaller or equal","Arbitrary","Unrelated"],
+      "answer": "Smaller or equal"
+    },
+    {
+      "id": "ds_mcq_07",
+      "source": "curated",
+      "topic": "Data Structures",
+      "concept": "Trie",
+      "type": "mcq",
+      "difficulty": "medium",
+      "question": "A trie is primarily used for which operation?",
+      "options": ["Sorting numbers","Prefix search","Graph traversal","Memory allocation"],
+      "answer": "Prefix search"
+    },
+    {
+      "id": "ds_mcq_08",
+      "source": "curated",
+      "topic": "Data Structures",
+      "concept": "Graph",
+      "type": "mcq",
+      "difficulty": "medium",
+      "question": "Adjacency list is better than adjacency matrix when graph is:",
+      "options": ["Dense","Sparse","Complete","Weighted"],
+      "answer": "Sparse"
+    },
+    {
+      "id": "ds_mcq_09",
+      "source": "curated",
+      "topic": "Data Structures",
+      "concept": "Union-Find",
+      "type": "mcq",
+      "difficulty": "medium",
+      "question": "Union-Find is used to manage which kind of information?",
+      "options": ["Orderings","Equivalence classes","Sequences","Queues"],
+      "answer": "Equivalence classes"
+    },
+    {
+      "id": "ds_mcq_10",
+      "source": "curated",
+      "topic": "Data Structures",
+      "concept": "Array/Matrix",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question": "Accessing element arr[i][j] is what complexity?",
+      "options": ["O(1)","O(n)","O(log n)","O(n^2)"],
+      "answer": "O(1)"
+    },
+
+    {
+      "id": "db_mcq_01",
+      "source": "curated",
+      "topic": "Databases",
+      "concept": "SQL",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question": "Which SQL statement fetches data from a table?",
+      "options": ["INSERT","DELETE","SELECT","UPDATE"],
+      "answer": "SELECT"
+    },
+    {
+      "id": "db_mcq_02",
+      "source": "curated",
+      "topic": "Databases",
+      "concept": "Joins",
+      "type": "mcq",
+      "difficulty": "medium",
+      "question": "Which join returns rows matched in both tables?",
+      "options": ["LEFT JOIN","RIGHT JOIN","INNER JOIN","FULL OUTER JOIN"],
+      "answer": "INNER JOIN"
+    },
+    {
+      "id": "db_mcq_03",
+      "source": "curated",
+      "topic": "Databases",
+      "concept": "Normalization",
+      "type": "mcq",
+      "difficulty": "medium",
+      "question": "Which normal form eliminates partial dependency?",
+      "options": ["1NF","2NF","3NF","BCNF"],
+      "answer": "2NF"
+    },
+    {
+      "id": "db_mcq_04",
+      "source": "curated",
+      "topic": "Databases",
+      "concept": "Transactions",
+      "type": "mcq",
+      "difficulty": "medium",
+      "question": "Which property ensures transactions appear as single unit?",
+      "options": ["Atomicity","Consistency","Isolation","Durability"],
+      "answer": "Atomicity"
+    },
+    {
+      "id": "db_mcq_05",
+      "source": "curated",
+      "topic": "Databases",
+      "concept": "Indexing",
+      "type": "mcq",
+      "difficulty": "medium",
+      "question": "Database index speeds up which operation?",
+      "options": ["INSERT only","DELETE only","SELECT queries","Schema changes"],
+      "answer": "SELECT queries"
+    },
+    {
+      "id": "db_mcq_06",
+      "source": "curated",
+      "topic": "Databases",
+      "concept": "SQL",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question": "Which constraint uniquely identifies table rows?",
+      "options": ["Foreign key","Primary key","Check","Default"],
+      "answer": "Primary key"
+    },
+    {
+      "id": "db_mcq_07",
+      "source": "curated",
+      "topic": "Databases",
+      "concept": "ACID",
+      "type": "mcq",
+      "difficulty": "medium",
+      "question": "Which ACID property guarantees changes persist after commit?",
+      "options": ["Atomicity","Consistency","Isolation","Durability"],
+      "answer": "Durability"
+    },
+    {
+      "id": "db_mcq_08",
+      "source": "curated",
+      "topic": "Databases",
+      "concept": "SQL",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question": "Which clause filters rows in SQL based on condition?",
+      "options": ["ORDER BY","GROUP BY","HAVING","WHERE"],
+      "answer": "WHERE"
+    },
+    {
+      "id": "db_mcq_09",
+      "source": "curated",
+      "topic": "Databases",
+      "concept": "Joins",
+      "type": "mcq",
+      "difficulty": "medium",
+      "question": "Which join returns all rows from left and matching from right?",
+      "options": ["RIGHT JOIN","LEFT JOIN","INNER JOIN","CROSS JOIN"],
+      "answer": "LEFT JOIN"
+    },
+    {
+      "id": "db_mcq_10",
+      "source": "curated",
+      "topic": "Databases",
+      "concept": "Schema",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question": "In relational DB, a table is made of rows and ____?",
+      "options": ["Queries","Columns","Indexes","Views"],
+      "answer": "Columns"
+    },
+
+    {
+      "id": "alg_short_01",
+      "source": "curated",
+      "topic": "Algorithms",
+      "concept": "Complexity",
+      "type": "short",
+      "difficulty": "easy",
+      "question": "What notation represents an upper bound on runtime?",
+      "answer": "Big O",
+      "keywords": ["big","o"]
+    },
+    {
+      "id": "alg_short_02",
+      "source": "curated",
+      "topic": "Algorithms",
+      "concept": "Searching",
+      "type": "short",
+      "difficulty": "easy",
+      "question": "Which algorithm searches a sorted array in logarithmic time?",
+      "answer": "Binary search",
+      "keywords": ["binary","search"]
+    },
+    {
+      "id": "alg_short_03",
+      "source": "curated",
+      "topic": "Algorithms",
+      "concept": "Graphs",
+      "type": "short",
+      "difficulty": "medium",
+      "question": "Name the algorithm to find shortest paths with possible negative edges.",
+      "answer": "Bellman-Ford",
+      "keywords": ["bellman","ford"]
+    },
+    {
+      "id": "alg_short_04",
+      "source": "curated",
+      "topic": "Algorithms",
+      "concept": "DP",
+      "type": "short",
+      "difficulty": "medium",
+      "question": "Which technique stores results to avoid recomputation?",
+      "answer": "Memoization",
+      "keywords": ["memoization"]
+    },
+    {
+      "id": "alg_short_05",
+      "source": "curated",
+      "topic": "Algorithms",
+      "concept": "Sorting",
+      "type": "short",
+      "difficulty": "easy",
+      "question": "Which sorting algorithm uses pivot partitioning?",
+      "answer": "Quick sort",
+      "keywords": ["quick","sort"]
+    },
+    {
+      "id": "ds_short_01",
+      "source": "curated",
+      "topic": "Data Structures",
+      "concept": "Stack",
+      "type": "short",
+      "difficulty": "easy",
+      "question": "Which structure uses LIFO order?",
+      "answer": "Stack",
+      "keywords": ["stack","lifo"]
+    },
+    {
+      "id": "ds_short_02",
+      "source": "curated",
+      "topic": "Data Structures",
+      "concept": "Queue",
+      "type": "short",
+      "difficulty": "easy",
+      "question": "Which structure uses FIFO order?",
+      "answer": "Queue",
+      "keywords": ["queue","fifo"]
+    },
+    {
+      "id": "ds_short_03",
+      "source": "curated",
+      "topic": "Data Structures",
+      "concept": "Hash",
+      "type": "short",
+      "difficulty": "medium",
+      "question": "What technique resolves collisions by storing items in linked lists per bucket?",
+      "answer": "Chaining",
+      "keywords": ["chaining"]
+    },
+    {
+      "id": "ds_short_04",
+      "source": "curated",
+      "topic": "Data Structures",
+      "concept": "Tree",
+      "type": "short",
+      "difficulty": "medium",
+      "question": "What is the height of a balanced binary tree with n nodes approximately?",
+      "answer": "O(log n)",
+      "keywords": ["log","n"]
+    },
+    {
+      "id": "ds_short_05",
+      "source": "curated",
+      "topic": "Data Structures",
+      "concept": "Trie",
+      "type": "short",
+      "difficulty": "medium",
+      "question": "Which data structure is ideal for prefix search?",
+      "answer": "Trie",
+      "keywords": ["trie","prefix"]
+    },
+    {
+      "id": "db_short_01",
+      "source": "curated",
+      "topic": "Databases",
+      "concept": "SQL",
+      "type": "short",
+      "difficulty": "easy",
+      "question": "Which SQL keyword removes duplicate rows from results?",
+      "answer": "DISTINCT",
+      "keywords": ["distinct"]
+    },
+    {
+      "id": "db_short_02",
+      "source": "curated",
+      "topic": "Databases",
+      "concept": "Normalization",
+      "type": "short",
+      "difficulty": "medium",
+      "question": "Which normal form removes transitive dependency?",
+      "answer": "3NF",
+      "keywords": ["3nf"]
+    },
+    {
+      "id": "db_short_03",
+      "source": "curated",
+      "topic": "Databases",
+      "concept": "Transactions",
+      "type": "short",
+      "difficulty": "medium",
+      "question": "Which property ensures isolation of concurrent transactions?",
+      "answer": "Isolation",
+      "keywords": ["isolation"]
+    },
+    {
+      "id": "db_short_04",
+      "source": "curated",
+      "topic": "Databases",
+      "concept": "Index",
+      "type": "short",
+      "difficulty": "easy",
+      "question": "Which structure speeds up lookups in a database?",
+      "answer": "Index",
+      "keywords": ["index"]
+    },
+    {
+      "id": "db_short_05",
+      "source": "curated",
+      "topic": "Databases",
+      "concept": "Joins",
+      "type": "short",
+      "difficulty": "medium",
+      "question": "Which join returns only matching rows from both tables?",
+      "answer": "INNER JOIN",
+      "keywords": ["inner","join"]
+    }
+  ]
+}
